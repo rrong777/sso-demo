@@ -1,0 +1,7 @@
+server:
+  port: 9999
+  context-path: /server
+security:
+  user:
+#    clientId 和ClientSecret是认证服务器识别是哪个应用用的。那你应用来认证也要用一个用户名密码认证，再返回给你token
+    password: 123456
