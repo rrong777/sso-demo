@@ -1,0 +1,11 @@
+
+sso-client1/.idea/
+sso-client2/.idea/
+sso-server/.idea/
+
+sso-client1/sso-client1.iml
+sso-client1/target/
+sso-client2/target/
+sso-server/target/
+sso-server/sso-demo.iml
+sso-client2/sso-client2.iml
