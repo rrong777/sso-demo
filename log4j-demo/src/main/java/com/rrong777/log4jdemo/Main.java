@@ -1,4 +1,4 @@
-package com;
+package com.rrong777.log4jdemo;
 
 
 //import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.test.log;
+package com.rrong777.logbackdemo;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,9 +1,9 @@
-package com;
+package com.rrong777.log4j2demo;
 
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.slf4j.LoggerFactory;
+
 
 public class Main {
 //    private static final ;
