@@ -9,3 +9,12 @@ sso-client2/target/
 sso-server/target/
 sso-server/sso-demo.iml
 sso-client2/sso-client2.iml
+log4j-demo/.idea/
+log4j-demo/target/
+log4j-demo2/.idea/
+log4j-demo2/target/
+log4j-demo/log4j-demo.iml
+log4j-demo2/log4j-demo2.iml
+logback-demo/.idea/
+logback-demo/target/
+logback-demo/logback-demo.iml
